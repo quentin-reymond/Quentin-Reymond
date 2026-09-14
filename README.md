@@ -1,13 +1,13 @@
 <h1 align="center">Bonjour👋, je suis Quentin</h1>
 <h3 align="center">Un étudiant passionné par les nouvelles technologies.</h3>
 
-- 🔭 Je travail actuellement sur **Un projet pour reproduire l'application blablacar**
+- 🔭 Je travail actuellement sur **Un projet smart display afin d'afficher des informations différentes sur plusieurs écrans**
 
 - 🌱 J'apprends actuellement **la cybersécurité, l'informatique, l'électronique ainsi que le réseau**
 
 - 👨‍💻 Tout mes projets sont disponible sur [https://github.com/quentin-reymond](https://github.com/quentin-reymond)
 
-- 📫 Contacter moi via **quentin.reymond13@gmail.com**
+- 📫 Contacter moi via **quentin.reymond@saintmichelannecy.com**
 
 - ⚡ Fun fact **Je suis un fan de foot**
 
